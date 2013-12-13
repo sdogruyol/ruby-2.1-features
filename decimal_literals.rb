@@ -19,3 +19,5 @@ Benchmark.bm do |x|
 end
 # Seems like they are the same in performance wise
 
+# Frozen String Literals are removed
+
